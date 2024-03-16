@@ -33,7 +33,7 @@ method for extracting more comprehensive consumer behaviors, while in the servic
 harnessed to discern preferences for personalized experiences.
 
 Although smartphones currently stand as the most prevalent devices boasting considerable sensing
-capabilities, it’s worth noting that they are not the sole technology at our disposal for such investigations. A myriad of other devices are gaining increased acceptance, some of which are purposefully engineered for ongoing data collection. For instance, smartwatches and fitness trackers, explicitly
+capabilities, it’s worth noting that they are not the sole technology at our disposal for such investigations. A myriad of other devices are gaining increased acceptance, some of which are purposefully engineered for ongoing data collection. For instance, smartwatches and fitness trackers, explicitly
 designed for the continuous monitoring of sleep patterns and physical activity, are now becoming
 more commonplace. As technology continues to evolve, this research has the potential to expand its
 horizons, encompassing a wider array of unobtrusive sensing techniques.
