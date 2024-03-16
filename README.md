@@ -57,8 +57,5 @@ If you utilize this research or data in a downstream work, please consider citin
 }
 ```
 <p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=KSwaviman"
-    alt="KSwaviman"
-  />
+![](https://komarev.com/ghpvc/?username=KSwaviman&label=Readers+Count&base=117)
 </p>
