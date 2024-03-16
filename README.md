@@ -1,5 +1,21 @@
 # Cracking-The-Personality-Code-A-Behavioral-Research
- Our study focused on using the Big Five personality inventory to predict traits from students' smartphone sensor data over 2 months. Through correlation analyses and machine learning with cross-validation, we showed that predictions are reliable and accurate enough for practical use.
+
+## Overview
+This thesis presents a comprehensive study on predicting personality traits using smartphone sensor data. By leveraging Supervised Machine Learning algorithms and extensive data analysis, we aim to model the Big Five personality framework effectively. This work encapsulates data collection, feature extraction, exploratory analysis, and predictive modeling, shedding light on the intricate relationship between smartphone usage patterns and personality traits.
+
+## Dependencies
+- Python 3.x
+- Pandas
+- Scikit-learn
+- XGBoost
+- Matplotlib
+- Seaborn
+- Plotly
+- openai
+- Power BI
+
+## Acknowledgments
+I extend my gratitude to Dr. Ivano Bison, Dr. Bruno Lepri, and Dr. Fausto Giunchiglia for their guidance and supervision. This research was supported by the University of Trento and the Bruno Kessler Foundation and conducted as part of the requirements for obtaining a Master’s degree in Data Science.
 
 ## Citation
 
