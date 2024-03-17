@@ -1,7 +1,7 @@
 # Cracking-The-Personality-Code-A-Behavioral-Research
 
 ## Overview
-This thesis presents a comprehensive study on understanding human behavior as well as predicting personality traits using smartphone sensor data. By leveraging Supervised Machine Learning algorithms and extensive data analysis, we aim to model the Big Five personality framework effectively. This work encapsulates data collection, feature extraction, exploratory analysis, and predictive modeling, shedding light on the intricate relationship between smartphone usage patterns and personality traits.
+This thesis presents a comprehensive study on understanding human behavior as well as predicting personality traits using smartphone sensor data and app usage data. By leveraging Supervised Machine Learning algorithms and extensive data analysis, we aim to model the Big Five personality framework effectively. This work encapsulates data collection, feature extraction, exploratory analysis, and predictive modeling, shedding light on the intricate relationship between smartphone usage patterns and personality traits.
 
 ## Dependencies
 - Python 3.x
@@ -20,7 +20,7 @@ I extend my gratitude to Dr. Ivano Bison, Dr. Bruno Lepri, and Dr. Fausto Giunch
 ## Summary
 This study has showcased the remarkable potential to discern an individual’s personality traits over
 the course of several days, all through the subtle analysis of behavioral data gathered from everyday
-smartphones. This innovative approach introduces a fresh paradigm, utilizing smartphone usage data
+smartphones. This innovative approach introduces a fresh paradigm, utilizing smartphone usage data (smartphone sensor data, app usage data)
 as the key to unlocking one’s personality, all without the need to delve into app-specific and social
 media content.
 
