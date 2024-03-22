@@ -30,7 +30,7 @@ previous findings in the literature. This research holds promise for a wide spec
 spanning the realms of social sciences and public health, where it can serve as a means to automatically
 detect potential confounding variables. Additionally, in the field of marketing, it offers a streamlined
 method for extracting more comprehensive consumer behaviors, while in the service sectors, it can be
-harnessed to discern preferences for personalized experiences.
+harnessed to discern preferences for personalized experiences. This work presents an innovative approach of utilizing mobile sensing for psychological research.
 
 Although smartphones currently stand as the most prevalent devices boasting considerable sensing
 capabilities, it’s worth noting that they are not the sole technology at our disposal for such investigations. A myriad of other devices are gaining increased acceptance, some of which are purposefully engineered for ongoing data collection. For instance, smartwatches and fitness trackers, explicitly
